@@ -12,7 +12,7 @@ nav ul, footer ul {
   
 a {
   text-decoration: none; 
-  color: red;
+  color: #808080;
   }
   
 a: hover {
@@ -27,7 +27,6 @@ h1 {
 p {
   font-size: 1.5em; 
   line-height: 1.4em;
-  color: red;
   }
   
 footer {
