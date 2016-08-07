@@ -5,14 +5,14 @@ body {
   
 nav ul, footer ul {
   font-family: 'Arial', 'Helvetica', 'Sans-Serif';
-  padding: 10 px; 
+  padding: 0 px; 
   list-style: none; 
   font-weight: bold; 
   }
   
 a {
   text-decoration: none; 
-  color: #FAEBD7;
+  color: #878787;
   }
   
 a: hover {
@@ -32,7 +32,7 @@ h1 {
 p {
   font-size: 1.5em; 
   line-height: 1.4em;
-  color: #333;
+  color: #878787;
   }
   
 footer {
