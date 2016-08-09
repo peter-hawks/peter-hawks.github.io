@@ -1,7 +1,7 @@
 body {
   margin: 80px auto;
   width: 60%;
-  background-image: url("http://all-len-all.com/wp-content/uploads/2014/05/Parker_Lake.jpg");
+  background-image: "http://all-len-all.com/wp-content/uploads/2014/05/Parker_Lake.jpg";
   }
   
 nav ul, footer ul {
