@@ -8,6 +8,7 @@ nav ul, footer ul {
   padding: 0 px;
   font-weight: bold; 
   list-style: none;
+  text-align: center;
   }
   
 a {
@@ -35,10 +36,10 @@ footer {
   border-top: 2 px solid #d5d5d5;
   font-size: .8em;
   list-style: none;
+  text-align: center;
 }
  
  li {
    display: inline;
-   text-align: center;
  }
   
