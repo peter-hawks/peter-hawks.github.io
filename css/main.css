@@ -9,6 +9,7 @@ nav ul, footer ul {
   font-weight: bold; 
   list-style: none;
   display: inline;
+  text-align: center;
   }
   
 a {
@@ -37,5 +38,7 @@ footer {
   font-size: .8em;
   list-style: none;
   display: inline;
+  text-align: center;
+}
  
   
